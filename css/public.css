@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+table,td {
+    border: 1px solid black;
+}
+
+table {
+    width: 1600px;
+    height: 400px;
+    overflow: auto;
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+}
+
+td {
+    padding: 15px;
+}
+
+.color{
+    font-weight: bold;
+    background-color: rgb(235,235,235);
+}
+.color2{
+    background-color: rgb(245,245,245);
+}
+.color3{
+    background-color: rgb(250,250,250);
+}
